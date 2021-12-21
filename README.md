@@ -1,2 +1,2 @@
-# moji_key
-extract keyword & recommend the best emoji that fit to your sentense!
+# po_sta
+analyse emotion from the text & showing 3 keywords that could be used for hashtag!
